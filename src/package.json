@@ -1,0 +1,9 @@
+{
+  "main": "index.ts",
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "dependencies": {
+    "@antv/g2plot": "latest"
+  }
+}
